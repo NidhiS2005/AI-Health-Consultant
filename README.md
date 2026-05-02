@@ -1,6 +1,6 @@
 <div align="center" style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; width: 80%; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
     <img
-        width="180"
+        width="230"
         height="220"
         alt="Logo - SURE ProEd"
         src="https://github.com/user-attachments/assets/88fa5098-24b1-4ece-87df-95eb920ea721"
