@@ -39,7 +39,8 @@
 - [Projects Completed](#-projects-completed)  
 - [Key Learnings](#-key-learnings)  
 - [Learnings from LST and SST](#-learnings-from-lst-and-sst)  
-- [Community Engagement](#-community-engagement)  
+- [Community Engagement](#-community-engagement)
+- [Community Service Photos](#-community-service-photos)  
 - [Certificate](#-certificate)  
 - [Acknowledgments](#-acknowledgments)  
 - [Final Note](#-final-note)  
@@ -95,15 +96,30 @@ Overall, these sessions helped me prepare for a real-world professional environm
 
 ## 🌱 Community Engagement
 
-As part of the internship activities:
+As part of the internship, I actively participated in community service initiatives that focused on both environmental sustainability and social responsibility.
 
-- Participated in **Tree Plantation Drives**  
-- Contributed to **community support initiatives**  
+- Took part in **Tree Plantation Drives**, where I personally contributed to planting and nurturing saplings 🌱  
+- Engaged in **Senior Citizen Service Activities**, offering support, spending quality time, and assisting in their daily needs 💛  
 
-These experiences helped strengthen:
-- teamwork  
-- responsibility  
-- social awareness  
+They strengthened my:
+- teamwork and collaboration  
+- sense of responsibility  
+- empathy and social awareness  
+
+Through these interactions, I learned that even small actions can create a positive impact in someone’s life.
+
+---
+  
+## 📸 Community Service Photos
+
+<div align="center">
+
+<img src="https://github.com/NidhiS2005/AI-Health-Consultant/blob/main/SURE%20ProEd%20-Community%20Services/1.png" alt="Tree Plantation" width="30%"/>
+<img src="https://github.com/NidhiS2005/AI-Health-Consultant/blob/main/SURE%20ProEd%20-Community%20Services/2.png" alt="Helping Senior Citizens" width="30%"/>
+<img src="https://github.com/NidhiS2005/AI-Health-Consultant/blob/main/SURE%20ProEd%20-Community%20Services/3.png" alt="Helping Senior Citizen" width="30%"/>
+
+</div>
+
 ---
 
 ### 💛 Personal Reflection
